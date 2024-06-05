@@ -1,5 +1,5 @@
-﻿# movie-recommendation-system
+﻿# Movie Recommendation System
 
-![2](https://github.com/Kritarth123-prince/movie-recommendation-system/assets/57205613/c36c97e0-fb51-4298-9836-0e0c19001599)
-
-![1](https://github.com/Kritarth123-prince/movie-recommendation-system/assets/57205613/a0a015ed-580d-4017-88b5-4da881478498)
+ ![2](https://github.com/Kritarth123-prince/Movie-Recommendation-System/assets/57205613/6b55a6ab-b4ff-44fe-955c-cb3cdc88906a)
+ 
+![1](https://github.com/Kritarth123-prince/Movie-Recommendation-System/assets/57205613/217209d6-a071-4fe9-aaa1-71866fb6cbe8)
